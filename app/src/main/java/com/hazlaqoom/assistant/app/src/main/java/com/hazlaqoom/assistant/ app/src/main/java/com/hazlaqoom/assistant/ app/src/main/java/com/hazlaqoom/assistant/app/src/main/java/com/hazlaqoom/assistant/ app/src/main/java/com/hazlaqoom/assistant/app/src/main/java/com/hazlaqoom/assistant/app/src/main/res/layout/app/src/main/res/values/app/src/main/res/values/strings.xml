@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hazlaqoom</string>
+    <string name="tap_to_speak">Tap to speak</string>
+    <string name="listening">Listening...</string>
+    <string name="processing">Thinking...</string>
+    <string name="welcome">Welcome! I am Hazlaqoom, your smart assistant</string>
+    <string name="health_reminders">Health Reminders</string>
+    <string name="water_reminder">Water Reminder</string>
+    <string name="water_reminder_desc">Reminds you to drink water every few hours</string>
+    <string name="health_check">Daily Health Check</string>
+    <string name="health_check_desc">Asks how you feel every evening</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="interval">Interval</string>
+    <string name="hours">hours</string>
+    <string name="time">Time</string>
+</resources>
